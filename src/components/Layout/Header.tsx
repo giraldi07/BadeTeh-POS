@@ -21,7 +21,7 @@ export function Header({ currentPage, onPageChange }: HeaderProps) {
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-                POS Minuman
+                BadeTeh POS
               </h1>
               <p className="text-xs text-gray-500 dark:text-gray-400">
                 {user?.email}
